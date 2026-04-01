@@ -1,5 +1,8 @@
 # 🌐 Shraddha's Portfolio Website
 
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://shraddha-portfolio-site.netlify.app/)
+
+
 A modern and responsive portfolio website built using React and Vite to showcase my projects, skills, and contact information.
 
 ---
