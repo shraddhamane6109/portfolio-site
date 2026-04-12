@@ -56,7 +56,7 @@ src/
 ![Home](public/screenshots/home.png)
 
 ### 👩‍💻 Skills Page
-![About](public/screenshots/skills.png)![Skills-Page]
+![Skills](public/screenshots/skills.png)![Skills-Page]
 
 ### 📁 Projects Page
 ![Projects](public/screenshots/project.png)
