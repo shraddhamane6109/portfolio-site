@@ -1,8 +1,22 @@
 import { motion } from "framer-motion";
 
 function Skills() {
-  const skills = ["HTML", "CSS", "JavaScript", "React"];
-
+  const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Tailwind CSS",
+  "Java",
+  "Spring Boot",
+  "Spring Security",
+  "REST API",
+  "JWT Auth",
+  "MySQL",
+  "Git",
+  "GitHub",
+  "Postman"
+];
   return (
     <section className="page-section">
       <div className="page-container">
